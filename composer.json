@@ -1,0 +1,16 @@
+{
+    "name": "klansot/new_composer_autoload",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kevin Lansot",
+            "email": "KEVIN.LANSOT@gmail.com"
+        }
+    ],
+    "require": {}
+}
